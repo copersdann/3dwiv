@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">3Dwiv</string>
+    <string name="app_tagline">STL · 3MF · STEP · OBJ · PLY · glTF · AMF</string>
+
+    <string name="btn_open">Открыть</string>
+    <string name="btn_fit">Подогнать</string>
+    <string name="btn_wire">Сетка</string>
+    <string name="btn_reset">Сброс</string>
+    <string name="btn_shot">Скриншот</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="btn_zoom_in">Приблизить</string>
+    <string name="btn_zoom_out">Отдалить</string>
+    <string name="close">Закрыть</string>
+
+    <string name="stats_empty">Файл не загружен</string>
+    <string name="loading">Загрузка: %1$s…</string>
+
+    <string name="sec_view">Вид</string>
+    <string name="sec_interaction">Управление</string>
+    <string name="sec_quality">Качество</string>
+
+    <string name="opt_background">Фон</string>
+    <string name="bg_dark">Тёмный</string>
+    <string name="bg_light">Светлый</string>
+    <string name="bg_graphite">Графит</string>
+    <string name="opt_ambient">Свет (рассеянный)</string>
+    <string name="opt_fov">Угол обзора</string>
+    <string name="opt_axes">Оси координат</string>
+    <string name="opt_msaa">Сглаживание (MSAA)</string>
+    <string name="msaa_off">Выкл</string>
+    <string name="msaa_x2">×2</string>
+    <string name="msaa_x4">×4</string>
+    <string name="opt_rot_sens">Чувствительность вращения</string>
+    <string name="opt_auto_fit">Подгонять камеру при загрузке</string>
+
+    <string name="fmt_tris">Треугольников: %1$d</string>
+    <string name="fmt_verts">Вершин: %1$d</string>
+    <string name="fmt_span">Размер: %1$s %2$s</string>
+
+    <string name="err_screenshot">Скриншоты работают на Android 8+</string>
+    <string name="shot_saved">Скриншот сохранён: %1$s</string>
+    <string name="hint_gestures">1 палец — вращение · 2 пальца — масштаб/панорама · двойной тап — приблизить</string>
+
+    <string name="unit_mm">мм</string>
+    <string name="unit_cm">см</string>
+    <string name="unit_in">дюйм</string>
+    <string name="unit_u">ед.</string>
+</resources>

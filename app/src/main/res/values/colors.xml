@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#101116</color>
+    <color name="bg_graphite">#23262E</color>
+    <color name="bg_light">#E8EAEF</color>
+
+    <color name="panel_bg">#F01B1D24</color>
+    <color name="panel_bg_solid">#1B1D24</color>
+    <color name="chip_bg">#CC1B1D24</color>
+
+    <color name="accent">#7C4DFF</color>
+    <color name="accent_dark">#4338CA</color>
+    <color name="accent_dark2">#2C2A4A</color>
+    <color name="secondary">#37474F</color>
+    <color name="secondary_dark">#263238</color>
+
+    <color name="text_primary">#F2F4F8</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_on_accent">#FFFFFF</color>
+
+    <color name="scrim">#66000000</color>
+    <color name="ripple">#33FFFFFF</color>
+</resources>

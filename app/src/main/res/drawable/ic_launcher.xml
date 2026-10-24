@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Фоновый круг -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M54,54 m-38,0 a38,38 0 1,1 76,0 a38,38 0 1,1 -76,0" />
+
+    <!-- Изометрический куб: верх -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M54,16 L90,34 L54,52 L18,34 Z" />
+
+    <!-- Правая грань -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M90,34 L90,72 L54,90 L54,52 Z" />
+
+    <!-- Левая грань -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M18,34 L54,52 L54,90 L18,72 Z" />
+</vector>
